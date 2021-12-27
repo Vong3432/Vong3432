@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 
 ![MyGithub](https://user-images.githubusercontent.com/36991424/147496821-9e47cab8-1a27-4e35-aff9-2514b6eebb32.png)
 
-[![Vong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vong3432&count_private=true&hide=stars)](https://github.com/Vong3432)
+[![Vong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vong3432&count_private=true&hide=stars&theme=midnight-purple)](https://github.com/Vong3432)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vong3432&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vong3432)](https://github.com/Vong3432)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vong3432&layout=compact&hide=php&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">📱 Mobile development language and tools:</h3>
 <p align="left">
